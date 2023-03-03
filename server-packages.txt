@@ -5,3 +5,4 @@ zip
 unzip
 python3
 nano
+tree
