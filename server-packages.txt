@@ -4,3 +4,4 @@ curl
 zip
 unzip
 python3
+nano
