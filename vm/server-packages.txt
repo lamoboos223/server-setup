@@ -7,3 +7,4 @@ python3
 nano
 tree
 telnet
+lsof
