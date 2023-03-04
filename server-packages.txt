@@ -1,9 +1,0 @@
-git
-wget
-curl
-zip
-unzip
-python3
-nano
-tree
-telnet
