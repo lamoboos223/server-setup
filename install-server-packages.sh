@@ -1,3 +1,4 @@
+sudo yum update && sudo yum upgrade
 yum install git -y
 yum install wget -y
 yum install curl -y
