@@ -1,5 +1,5 @@
 
 ```sh
-$ xargs sudo apt-get install -y <server-packages.txt
+$ xargs sudo yum install -y <server-packages.txt
 $ pip install -r python-packages.txt
 ```
