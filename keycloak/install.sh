@@ -30,3 +30,7 @@ sudo cp /opt/keycloak/docs/contrib/scripts/systemd/wildfly.conf /etc/keycloak/ke
 sudo cp /opt/keycloak/docs/contrib/scripts/systemd/launch.sh /opt/keycloak/bin/
 sudo chown keycloak: /opt/keycloak/bin/launch.sh
 sudo cp /opt/keycloak/docs/contrib/scripts/systemd/wildfly.service /etc/systemd/system/keycloak.service
+
+# update to fix the above permissions --need to fixed later on--
+chmod -R 777 /opt/keycloak/
+chown -R root: /opt/keycloak
